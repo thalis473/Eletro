@@ -1,0 +1,10 @@
+#imgInicial{
+    padding-left: 10%;    
+    align-items: center;
+}
+
+.img-fluid{
+   
+    height: 100px;
+    width: 100px;
+}
